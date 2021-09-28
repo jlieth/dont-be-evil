@@ -1,2 +1,3 @@
 # dont-be-evil
-Prevent Google search from tracking clicks
+
+Browser extension that prevents Google search from tracking clicks
