@@ -10,6 +10,11 @@
         "url": "https://github.com/jlieth/dont-be-evil"
     },
 
+    "icons": {
+        "48": "icon.svg",
+        "96": "icon.svg"
+    },
+
     "content_scripts": [
         {
             "matches": [
